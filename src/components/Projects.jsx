@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from '../assets/html.png'
+import layers from '../assets/layers.svg'
 
 const Work = () => {
   return (
@@ -17,7 +17,7 @@ const Work = () => {
 
           {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${Logo})` }}
+            style={{ backgroundImage: `url(${layers})` }}
             className='group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}

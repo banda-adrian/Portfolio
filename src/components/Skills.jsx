@@ -11,12 +11,10 @@ const Skills = () => {
                 </div>
 
                 <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
-                    {/* HTML */}
                     <div className='hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={'https://img.icons8.com/color/480/000000/html-5--v1.png'} alt="HTML icon" />
                         <p className='my-4'>HTML</p>
                     </div>
-
                     <div className='hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={'https://img.icons8.com/color/480/000000/css3.png'} alt="CSS icon" />
                         <p className='my-4'>CSS</p>

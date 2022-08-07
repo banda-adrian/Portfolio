@@ -55,7 +55,7 @@ const Navbar = () => {
                     </Link>
                 </li>
                 <li className='py-6 text-4xl'>
-                    <Link onClick={handleClick}to="about" smooth={true} duration={500}>
+                    <Link onClick={handleClick} to="about" smooth={true} duration={500}>
                         About
                     </Link>
                 </li>
@@ -91,20 +91,7 @@ const Navbar = () => {
                             Github <FaGithub size={30} />
                         </a>
                     </li>
-                    <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
-                        <a className='flex justify-between items-center w-full text-[#f2f2f2]'
-                            href='/'>
-                            Mail <HiOutlineMail size={30} />
-                        </a>
-                    </li>
-                    <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
-                        <a className='flex justify-between items-center w-full text-[#f2f2f2]'
-                            href='/'>
-                            Resume <BsFillPersonLinesFill size={30} />
-                        </a>
-                    </li>
                 </ul>
-
             </div>
         </div>
     )

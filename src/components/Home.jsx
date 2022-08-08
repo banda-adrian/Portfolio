@@ -14,9 +14,9 @@ const Home = () => {
                 <h2 className='text-4xl sm:text-7xl font-bold text-[#4d0400]'>
                     I'm a Work in progress.
                 </h2>
-                <p className='text-[#740600] py-4 max-w-[700px]'>
+                {/* <p className='text-[#740600] py-4 max-w-[700px]'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis molestiae similique atque, nam est ipsam sequi obcaecati quis, numquam iure, deleniti quibusdam enim explicabo! Illum dicta culpa commodi atque autem?
-                </p>
+                </p> */}
                 
                 <div>
                     <button className='text-[#4d0400] border-[#4d0400] group border-2 px-6 py-3 my-2 flex items-center hover:text-white hover:bg-[#740600] hover:border-white'>

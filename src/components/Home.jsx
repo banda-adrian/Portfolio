@@ -15,11 +15,11 @@ const Home = () => {
                 <h2 className='text-4xl sm:text-7xl font-bold text-[#4d0400]'>
                     I'm a Work in progress.   
                 </h2>
-                {/* <scrollIntoView className="absolute inset-x-0 bottom-0" >
+                <scrollIntoView className="absolute inset-x-0 bottom-0" >
                     <div>
                         <FaChevronDown className='animate-bounce mx-auto text-3xl text-[#4d0400]' />
                     </div>
-                </scrollIntoView> */}
+                </scrollIntoView>
             </div>
         </div>
 

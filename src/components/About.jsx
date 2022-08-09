@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const About = () => {
   return (
@@ -10,18 +10,25 @@ const About = () => {
               About
             </p>
           </div>
-          <div></div>
+        </div>
+        <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
+          <div className='sm:text-right text-2xl font-bold'>
+            <p>
+              In the process of learning
+              React
+            </p>
           </div>
-          <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-            <div className='sm:text-right text-4xl font-bold'>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi, quia velit, ullam nihil repellendus quis eum facilis alias deserunt sit maxime explicabo ad aperiam expedita animi! Assumenda aspernatur quaerat non?</p>
-            </div>
-            <div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, deleniti excepturi illo autem eaque ut commodi labore quisquam reiciendis id. Soluta illo molestias fugiat eaque asperiores voluptas fuga ad magni!</p>  
-            </div>
+          <div>
+            <p>
+              Earned a certificate in Full Stack Web Development from Southern Methodist University.
+              Gained knowledge of browser-based technologies, server-side development, and databases.
+              By learning the fundamentals, I was able to create fully functional web applications.
+            </p>
           </div>
+        </div>
       </div>
-    </div>  )
-}
+    </div>
+  );
+};
 
 export default About;

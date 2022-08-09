@@ -9,10 +9,10 @@ const Work = () => {
             Projects
           </p>
           <p className='py-6'>
-            Some of my work.
+            {/* Some of my work. */}
           </p>
           
-          Projects go here
+          Currently Building ....
 
         </div>
       </div>

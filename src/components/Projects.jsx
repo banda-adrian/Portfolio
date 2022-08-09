@@ -1,5 +1,4 @@
 import React from 'react';
-import layers from '../assets/layers.svg'
 
 const Work = () => {
   return (

@@ -20,9 +20,7 @@ const About = () => {
           </div>
           <div>
             <p>
-              Earned a certificate in Full Stack Web Development from Southern Methodist University.
-              Gained knowledge of browser-based technologies, server-side development, and databases.
-              By learning the fundamentals, I was able to create fully functional web applications.
+            I have earned a certificate in Full Stack Web Development from the Southern Methodist University. During the course, I gained a knowledge of server-side development, databases and, browser-based technologies. With this knowledge I have been able to create fully functional web applications as shown below.
             </p>
           </div>
         </div>

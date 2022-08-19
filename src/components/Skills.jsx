@@ -22,31 +22,35 @@ const Skills = () => {
                     </div>
                     <div className='hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={'https://img.icons8.com/color/480/000000/javascript--v1.png'} alt="JAVASCRIPT icon" />
-                        <p className='my-4'>JAVASCRIPT</p>
+                        <p className='my-4'>Javascript</p>
                     </div>
                     <div className='hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={'https://img.icons8.com/color/480/000000/react-native.png'} alt="REACT icon" href="https://reactjs.org/" />
-                        <p className='my-4'>REACT</p>
+                        <p className='my-4'>React</p>
                     </div>
                     <div className='hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={'https://img.icons8.com/color/480/000000/github--v1.png'} alt="GITHUB icon" />
-                        <p className='my-4'>GITHUB</p>
+                        <p className='my-4'>Github</p>
                     </div>
                     <div className='hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={'https://img.icons8.com/color/480/000000/npm.png'} alt="NPM icon" />
-                        <p className='my-4'>NPM</p>
+                        <p className='my-4'>npm</p>
                     </div>
                     <div className='hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={'https://img.icons8.com/color/480/000000/nodejs.png'} alt="NODE icon" />
-                        <p className='my-4'>NODE JS</p>
+                        <p className='my-4'>Node JS</p>
                     </div>
                     <div className='hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={'https://img.icons8.com/color/480/000000/tailwindcss.png'} alt="TAILWIND icon" />
-                        <p className='my-4'>TAILWIND</p>
+                        <p className='my-4'>Tailwind</p>
                     </div>
                     <div className='hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={'https://img.icons8.com/color/480/000000/bootstrap.png'} alt="BOOTSTARP icon" />
-                        <p className='my-4'>BOOSTRAP</p>
+                        <p className='my-4'>Bootsrap</p>
+                    </div>
+                    <div className='hover:scale-110 duration-500'>
+                        <img className='w-20 mx-auto' src={'https://img.icons8.com/color/480/000000/mysql-logo.png'} alt="MySQL icon" />
+                        <p className='my-4'>MySQL</p>
                     </div>
 
                 </div>
